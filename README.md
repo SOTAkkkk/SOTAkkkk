@@ -1,8 +1,5 @@
 # プロフィール
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOTAkkkk&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SOTAkkkk&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SOTAkkkk&theme=nord_bright)
