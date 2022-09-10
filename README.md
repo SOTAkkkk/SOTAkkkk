@@ -9,5 +9,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SOTAkkkk&theme=nord_bright)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SOTAkkkk&theme=nord_bright&utcOffset=8)
 
-
+[テンプレ](https://github-profile-summary-cards.vercel.app/demo.html)
 [More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
