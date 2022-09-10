@@ -1,4 +1,4 @@
-# github-profile-summary-cards-example
+# プロフィール
 
 | :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
